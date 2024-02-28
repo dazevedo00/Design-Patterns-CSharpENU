@@ -1,0 +1,43 @@
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll

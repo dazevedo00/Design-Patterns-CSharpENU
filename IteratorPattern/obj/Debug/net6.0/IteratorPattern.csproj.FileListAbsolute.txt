@@ -1,0 +1,43 @@
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\refint\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\ref\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\bin\Debug\net6.0\IteratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\refint\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\IteratorPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\IteratorPattern\obj\Debug\net6.0\ref\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\bin\Debug\net6.0\IteratorPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\bin\Debug\net6.0\IteratorPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\bin\Debug\net6.0\IteratorPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\bin\Debug\net6.0\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\bin\Debug\net6.0\IteratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\IteratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\IteratorPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\IteratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\refint\IteratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\IteratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\IteratorPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\IteratorPattern\obj\Debug\net6.0\ref\IteratorPattern.dll

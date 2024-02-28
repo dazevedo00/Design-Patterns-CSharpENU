@@ -1,0 +1,30 @@
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.exe
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.deps.json
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.runtimeconfig.json
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.dll
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.pdb
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.dll
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\refint\Strategy Pattern.dll
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.pdb
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\source\repos\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\ref\Strategy Pattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\bin\Debug\net6.0\Strategy Pattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\refint\Strategy Pattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\Strategy Pattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\Strategy Pattern\Strategy Pattern\obj\Debug\net6.0\ref\Strategy Pattern.dll

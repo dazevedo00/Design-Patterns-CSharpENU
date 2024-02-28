@@ -1,0 +1,43 @@
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll

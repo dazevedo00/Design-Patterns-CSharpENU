@@ -1,0 +1,66 @@
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.CopyComplete
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\refint\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\Daniel Azevedo\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\ref\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.CopyComplete
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\refint\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Desktop\Demos\CodeDemos\ExamplesMulti\SBTopicReceiver\obj\Debug\net6.0\ref\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.exe
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.deps.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.runtimeconfig.json
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\SBTopicReceiver.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\Azure.Core.Amqp.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\Azure.Messaging.ServiceBus.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\Microsoft.Azure.Amqp.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.AssemblyReference.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.AssemblyInfoInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.AssemblyInfo.cs
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.CoreCompileInputs.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.csproj.CopyComplete
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\refint\SBTopicReceiver.dll
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.pdb
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\SBTopicReceiver.genruntimeconfig.cache
+C:\Users\daniel.azevedo\OneDrive - PRIMAVERA BSS\Documents\GitHub\DesignPatternsCSharp\Design-Patterns-CSharp\SBTopicReceiver\obj\Debug\net6.0\ref\SBTopicReceiver.dll
